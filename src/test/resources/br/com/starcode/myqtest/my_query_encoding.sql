@@ -1,0 +1,1 @@
+select 'josé' from dual
